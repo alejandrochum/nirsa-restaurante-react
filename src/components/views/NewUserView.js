@@ -147,12 +147,4 @@ const NewUserView = (props) => {
     </>
 }
 
-const SuccessView = () => {
-    return (
-        <>
-            <h1>Sucess!</h1>
-        </>
-    )
-}
-
 export default NewUserView;
